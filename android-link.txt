@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://speaking-exports-paintball-boss.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://administrator-van-endorsement-learn.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-13 10:19:31 UTC
+Created   : 2026-09-13 18:15:39 UTC
 =======================================================
