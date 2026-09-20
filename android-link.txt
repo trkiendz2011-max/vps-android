@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://neighbors-definition-partner-nuke.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://senators-real-roulette-river.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-19 22:29:45 UTC
+Created   : 2026-09-20 04:53:07 UTC
 =======================================================
