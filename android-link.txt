@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://isa-operations-sticky-bruce.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://advocate-foam-object-null.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-25 23:25:15 UTC
+Created   : 2026-09-26 04:55:16 UTC
 =======================================================
