@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://punch-pdas-contribute-alike.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://stands-ended-public-status.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-30 16:33:20 UTC
+Created   : 2026-09-30 23:50:25 UTC
 =======================================================
