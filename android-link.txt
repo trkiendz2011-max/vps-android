@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dennis-endif-aqua-shopper.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://rosa-entertainment-fitness-climbing.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-03 23:00:53 UTC
+Created   : 2026-10-04 05:48:17 UTC
 =======================================================
