@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://past-surgery-katie-supplements.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://tracked-behaviour-beijing-wheat.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-14 23:20:03 UTC
+Created   : 2026-10-15 04:33:06 UTC
 =======================================================
