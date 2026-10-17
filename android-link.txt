@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://motorola-bluetooth-computational-listen.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://administrators-packing-levy-kerry.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-17 13:48:06 UTC
+Created   : 2026-10-17 18:01:33 UTC
 =======================================================
