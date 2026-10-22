@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://climate-reaching-owns-employers.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://remembered-teach-caps-reserves.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-10-21 23:21:11 UTC
+Created   : 2026-10-22 04:37:49 UTC
 =======================================================
