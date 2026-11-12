@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://charge-languages-plugin-sullivan.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://johnny-pic-potter-two.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-11 22:01:41 UTC
+Created   : 2026-11-12 07:08:21 UTC
 =======================================================
