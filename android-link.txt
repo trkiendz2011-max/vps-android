@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://move-spaces-entries-activation.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://scoring-mortgages-dis-retailer.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-11-26 02:55:30 UTC
+Created   : 2026-11-26 15:07:58 UTC
 =======================================================
